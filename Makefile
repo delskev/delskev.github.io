@@ -24,4 +24,4 @@ run-dev:
 
 .PHONY: run-debug
 run-debug:
-	@PAGES_REPO_NWO="delskev/perzival.github.io" JEKYLL_ENV=production bundle exec jekyll serve --host 0.0.0.0 --port 4000
+	@PAGES_REPO_NWO="delskev/delskev.github.io" JEKYLL_ENV=production bundle exec jekyll serve --host 0.0.0.0 --port 4000
