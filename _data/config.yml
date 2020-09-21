@@ -3,7 +3,7 @@ blog:
   title: "DevOps engineer"
   keywords: ["Research & Development", "DevOps", "Maker", "3d printing", "Web", "Java", "Development", "Agile", "Design", "Architecture", "Methodology"]
 lang:
-  header_text: "Traduit du français"
+  header_text: ""
   original:
     code: "fr"
     display_name: "Français"
@@ -11,8 +11,8 @@ lang:
     - code: "en"
       display_name: "English"
 article:
-  static: "https://cdn.jsdelivr.net/gh/glegoux/articles-glegoux-com@master/articles"
-  source: "https://raw.githubusercontent.com/glegoux/glegoux.github.io/master/_posts"
+  static: ""
+  source: ""
   image:
     path: "images"
     suffix: ""

@@ -1,7 +1,7 @@
 ---
 title: "Getting Started"
 description: "Markdown is a easy-to-use syntax for writing text on this blog."
-authors: ["glegoux"]
+authors: ["delskev"]
 time_reading_minutes: "10"
 category: "Methodology"
 tags: ["Markdown"]
